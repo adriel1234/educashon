@@ -1,0 +1,35 @@
+# Arquivos do Django
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+/media/
+/staticfiles/
+.venv
+
+
+# Arquivos do React
+node_modules/
+build/
+dist/
+*.log
+.DS_Store
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+
+# Ambiente virtual Python
+.venv/
+backend/.venv/
+backend/venv/
+.env/
+ENV/
+env/
